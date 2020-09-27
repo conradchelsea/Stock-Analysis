@@ -8,7 +8,7 @@
 
 ### The 2017 data script ran faster than the previous worksheet by 0.8 of a second. 
 
-### The 2018 data script also ran almost a second faster than the previous version. 
+### The 2018 data script also ran faster than the previous version. 
 
 ###
 			 
